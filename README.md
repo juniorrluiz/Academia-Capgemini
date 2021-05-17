@@ -1,14 +1,14 @@
 # Academia-Capgemini
 Este repositório foi criado para uma seleção feita pela ProWay em relação a Academia da Capgemini.
 
-## Para execultar o código você precisa do Java JDK instalado na máquina
+## Para execultar o código você precisa do Java JDK instalado na máquina, se não tiver, segue o link.
 Link : https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html
 
 ## Ide utilizada Eclipse
 Link : https://www.eclipse.org/downloads/
 
 ## Como acessar o programa?
-- Faça o download do arquivo que está no repositório, inporte no Eclipse, e rode o programa.
+- Faça o download do arquivo que está no repositório, importe no Eclipse, e rode o programa.
 
 
 ## O problema
